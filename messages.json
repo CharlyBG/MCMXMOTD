@@ -7,13 +7,13 @@
 			 "value":{
              "text":"",
 			 "extra":[{
-             "text":"Función implementada  el día 25 / 03 / 2017. Github: https://github.com/TrexMX/MCMXMOTD/",
+             "text":"Función implementada el día 25 / 03 / 2017. Github: https://github.com/TrexMX/MCMXMOTD/",
 			 "color":"dark_gray"
 			 }]}},
           "insertion":""
 		  
 },{
-      "text":"- ¡Ahora puedes votar por nosotros con /voto40 y recibirás una Caja Misteriosa como recompensa! \n",
+      "text":"→ ¡Ahora puedes votar por nosotros con /voto40 y recibirás una Caja Misteriosa como recompensa! \n",
           "color":"white","clickEvent":{"action":"run_command","value":"/voto40"},
           "hoverEvent":{
 	         "action":"show_text",
@@ -26,7 +26,7 @@
 		  "bold":false
 			 
 },{
-	  "text":"- ¡Adiós lobby de San Valentín!\n ",
+	  "text":"→ ¡Adiós lobby de San Valentín!\n",
 	      "color":"white",
 		  "hoverEvent":{
 		     "action":"show_text",
@@ -38,18 +38,18 @@
 			 }]}}
 			 
 },{
-	  "text":"- ¡Ahora los donadores tienen un '*' en el TAB y TAG! \n",
+	  "text":"→ ¡Ahora los donadores tienen un '*' en el TAB y TAG! \n",
 		  "color":"white",
 		  "hoverEvent":{
 		     "action":"show_text",
 			 "value":{
 			 "text":"",
 			 "extra":[{
-			 "text":"Para que sean destacados de entre todos los usuarios, los donadores ahora poseen un '*' de color lima en la Tablist y en el DisplayName",
+			 "text":"Para que sean destacados de entre todos los usuarios,\n los donadores ahora poseen un '*' de color lima\n en la Tablist y en el DisplayName",
 			 "color":"aqua"
 			 }]}}
 },{
-	  "text":"- ¿Tienes algún problema, duda o sugerencia? ¡Visita nuestra página de tickets! \n",
+	  "text":"→ ¿Tienes algún problema, duda o sugerencia? ¡Visita nuestra página de tickets! \n",
 	      "clickEvent":{
 		     "action":"open_url",
 			 "value":"http://mcmexi.co/tickets/"},
