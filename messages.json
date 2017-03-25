@@ -1,5 +1,5 @@
 ["",{
-      "text":"➣ Noticias: ",
+      "text":"? Noticias: ",
           "color":"red",
           "bold":true,
           "hoverEvent":{
@@ -12,8 +12,9 @@
 			 }]}},
           "insertion":""
 		  
-},{
-      "text":"- ¡Ahora puedes votar por nosotros con /voto40 y recibirás una Caja Misteriosa como recompensa! ",
+}]
+["",{
+     "text":"- ¡Ahora puedes votar por nosotros con /voto40 y recibirás una Caja Misteriosa como recompensa! ",
           "color":"white","clickEvent":{"action":"run_command","value":"/voto40"},
           "hoverEvent":{
 	         "action":"show_text",
@@ -25,7 +26,8 @@
 			 }]}},
 		  "bold":false
 			 
-},{
+}]
+["",{
 	  "text":"- ¡Adiós lobby de San Valentín! ",
 	      "color":"white",
 		  "hoverEvent":{
@@ -37,7 +39,8 @@
 			 "color":"aqua"
 			 }]}}
 			 
-},{
+}]
+["",{
 	  "text":"- ¡Ahora los donadores tienen un '*' en el TAB y TAG! ",
 		  "color":"white",
 		  "hoverEvent":{
@@ -48,7 +51,8 @@
 			 "text":"Para que sean destacados de entre todos los usuarios, los donadores ahora poseen un '*' de color lima en la Tablist y en el DisplayName",
 			 "color":"aqua"
 			 }]}}
-},{
+}]
+["",{
 	  "text":"- ¿Tienes algún problema, duda o sugerencia? ¡Visita nuestra página de tickets!",
 	      "clickEvent":{
 		     "action":"open_url",
@@ -61,6 +65,6 @@
 		     "text":"Click para abrir la web",
 		     "color":"aqua"
 		     }]}},
-		  "color":"white"
+		  "color":"none"
 		  
 }]
