@@ -1,5 +1,5 @@
 ["",{
-      "text":"➣ Noticias: ",
+      "text":"➣ Noticias: \n",
           "color":"red",
           "bold":true,
           "hoverEvent":{
@@ -12,9 +12,8 @@
 			 }]}},
           "insertion":""
 		  
-}]
-["",{
-     "text":"- ¡Ahora puedes votar por nosotros con /voto40 y recibirás una Caja Misteriosa como recompensa! ",
+},{
+      "text":"- ¡Ahora puedes votar por nosotros con /voto40 y recibirás una Caja Misteriosa como recompensa! \n",
           "color":"white","clickEvent":{"action":"run_command","value":"/voto40"},
           "hoverEvent":{
 	         "action":"show_text",
@@ -26,9 +25,8 @@
 			 }]}},
 		  "bold":false
 			 
-}]
-["",{
-	  "text":"- ¡Adiós lobby de San Valentín! ",
+},{
+	  "text":"- ¡Adiós lobby de San Valentín!\n ",
 	      "color":"white",
 		  "hoverEvent":{
 		     "action":"show_text",
@@ -39,9 +37,8 @@
 			 "color":"aqua"
 			 }]}}
 			 
-}]
-["",{
-	  "text":"- ¡Ahora los donadores tienen un '*' en el TAB y TAG! ",
+},{
+	  "text":"- ¡Ahora los donadores tienen un '*' en el TAB y TAG! \n",
 		  "color":"white",
 		  "hoverEvent":{
 		     "action":"show_text",
@@ -51,9 +48,8 @@
 			 "text":"Para que sean destacados de entre todos los usuarios, los donadores ahora poseen un '*' de color lima en la Tablist y en el DisplayName",
 			 "color":"aqua"
 			 }]}}
-}]
-["",{
-	  "text":"- ¿Tienes algún problema, duda o sugerencia? ¡Visita nuestra página de tickets!",
+},{
+	  "text":"- ¿Tienes algún problema, duda o sugerencia? ¡Visita nuestra página de tickets! \n",
 	      "clickEvent":{
 		     "action":"open_url",
 			 "value":"http://mcmexi.co/tickets/"},
@@ -65,6 +61,6 @@
 		     "text":"Click para abrir la web",
 		     "color":"aqua"
 		     }]}},
-		  "color":"none"
+		  "color":"white"
 		  
 }]
