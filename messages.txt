@@ -1,0 +1,66 @@
+["",{
+      "text":"➣ Noticias: ",
+          "color":"red",
+          "bold":true,
+          "hoverEvent":{
+             "action":"show_text",
+			 "value":{
+             "text":"",
+			 "extra":[{
+             "text":"Función implementada  el día 25 / 03 / 2017. Github: https://github.com/TrexMX/MCMXMOTD/",
+			 "color":"dark_gray"
+			 }]}},
+          "insertion":""
+		  
+},{
+      "text":"- ¡Ahora puedes votar por nosotros con /voto40 y recibirás una Caja Misteriosa como recompensa! ",
+          "color":"white","clickEvent":{"action":"run_command","value":"/voto40"},
+          "hoverEvent":{
+	         "action":"show_text",
+			 "value":{
+			 "text":"",
+			 "extra":[{
+			 "text":"Click para usar /voto40",
+			 "color":"aqua"
+			 }]}},
+		  "bold":false
+			 
+},{
+	  "text":"- ¡Adiós lobby de San Valentín! ",
+	      "color":"white",
+		  "hoverEvent":{
+		     "action":"show_text",
+			 "value":{
+			 "text":"",
+			 "extra":[{
+			 "text":"¡Por fin se acabaron los días festivos importantes y estamos de regreso con nuestro lobby oficial!",
+			 "color":"aqua"
+			 }]}}
+			 
+},{
+	  "text":"- ¡Ahora los donadores tienen un '*' en el TAB y TAG! ",
+		  "color":"white",
+		  "hoverEvent":{
+		     "action":"show_text",
+			 "value":{
+			 "text":"",
+			 "extra":[{
+			 "text":"Para que sean destacados de entre todos los usuarios, los donadores ahora poseen un '*' de color lima en la Tablist y en el DisplayName",
+			 "color":"aqua"
+			 }]}}
+},{
+	  "text":"- ¿Tienes algún problema, duda o sugerencia? ¡Visita nuestra página de tickets!",
+	      "clickEvent":{
+		     "action":"open_url",
+			 "value":"http://mcmexi.co/tickets/"},
+		  "hoverEvent":{
+		     "action":"show_text",
+		     "value":{
+		     "text":"",
+		     "extra":[{
+		     "text":"Click para abrir la web",
+		     "color":"aqua"
+		     }]}},
+		  "color":"none"
+		  
+}]
