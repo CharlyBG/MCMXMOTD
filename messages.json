@@ -51,16 +51,17 @@
 			 }]}}
 			 
 },{
-	  "text":"→ ¡Ahora contamos con rango Mini Youtuber!  \n",
+	  "text":"→→→  ¡Ahora contamos con rango Mini Youtuber!  \n",
 		  "color":"white",
 		  "hoverEvent":{
 		     "action":"show_text",
 			 "value":{
 			 "text":"",
 			 "extra":[{
-			 "text":"Pronto publicaremos las bases en nuestro blog, mcmexicoblog.blogspot.mx",
+			 "text":"Requisitos en mcmexicoblog.blogspot.mx",
 			 "color":"aqua"
-			 }]}}
+			 }]}},
+	     "bold":true
 },{
       "text":"→ ¡Ahora puedes votar por nosotros con /voto40 y recibirás una Caja Misteriosa como recompensa! \n",
           "color":"white","clickEvent":{"action":"run_command","value":"/voto40"},
