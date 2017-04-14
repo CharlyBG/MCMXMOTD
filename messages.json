@@ -11,33 +11,7 @@
 			 "color":"dark_gray"
 			 }]}},
           "insertion":""
-		  
-},{
-      "text":"→ ¡Tops nuevos en SkyWars y Eggwars hechos en casa! \n",
-          "color":"white",
-          "hoverEvent":{
-	         "action":"show_text",
-			 "value":{
-			 "text":"",
-			 "extra":[{
-			 "text":"Con plugins hechos en casa, Skywars y Eggwars poseen ahora tops",
-			 "color":"aqua"
-			 }]}},
-		  "bold":false
-			 
-},{
-      "text":"→ ¡Más mapas para CTW!: Dynamo y Welcome to The Wool Square\n",
-          "color":"white",
-          "hoverEvent":{
-	         "action":"show_text",
-			 "value":{
-			 "text":"",
-			 "extra":[{
-			 "text":"Créditos a sus respectivos creadores y a Overcast Network",
-			 "color":"aqua"
-			 }]}},
-		  "bold":false
-			 
+
 },{
 	  "text":"→ ¡Ya podrás cambiar tu contraseña! Pasa tu cursor por encima de éste mensaje para más información\n",
 	      "color":"white",
@@ -50,6 +24,19 @@
 			 "color":"aqua"
 			 }]}}
 			 
+},{
+      "text":"→→→ ¡Nuevo Lobby Principal! \n",
+          "color":"white",
+          "hoverEvent":{
+	         "action":"show_text",
+			 "value":{
+			 "text":"",
+			 "extra":[{
+			 "text":"Gracias a nuestro moderador RodrigoHerreraMX y al usuario Pigzote por construirlo.",
+			 "color":"aqua"
+			 }]}},
+		  "bold":false
+			  
 },{
 	  "text":"→→→  ¡Ahora contamos con rango Mini Youtuber!  \n",
 		  "color":"white",
