@@ -13,39 +13,26 @@
           "insertion":""
 
 },{
-	  "text":"→ ¡Ya podrás cambiar tu contraseña! Pasa tu cursor por encima de éste mensaje para más información\n",
-	      "color":"white",
-		  "hoverEvent":{
-		     "action":"show_text",
-			 "value":{
-			 "text":"",
-			 "extra":[{
-			 "text":"Las instrucciones están en nuestro blog, mcmexicoblog.blogspot.mx",
-			 "color":"aqua"
-			 }]}}
-			 
-},{
-      "text":"→→→ ¡Nuevo Lobby Principal! \n",
-          "color":"white",
-          "hoverEvent":{
-	         "action":"show_text",
-			 "value":{
-			 "text":"",
-			 "extra":[{
-			 "text":"Gracias a nuestro moderador RodrigoHerreraMX y al usuario Pigzote por construirlo.",
-			 "color":"aqua"
-			 }]}},
-		  "bold":false
-			  
-},{
-	  "text":"→→→  ¡Ahora contamos con rango Mini Youtuber!  \n",
+	  "text":"→→→  ¡Vuelve PayPal como método de pago!  \n",
 		  "color":"white",
 		  "hoverEvent":{
 		     "action":"show_text",
 			 "value":{
 			 "text":"",
 			 "extra":[{
-			 "text":"Requisitos en mcmexicoblog.blogspot.mx",
+			 "text":"Después de casi 2 años de su desaparición está de vuelta.",
+			 "color":"aqua"
+			 }]}},
+	     "bold":true
+},{
+	  "text":"→→  ¡Cambios mínimos en la página web!  \n",
+		  "color":"white",
+		  "hoverEvent":{
+		     "action":"show_text",
+			 "value":{
+			 "text":"",
+			 "extra":[{
+			 "text":"Se agregaron cosas mínimas a la web, como el redireccionamiento al blog y pestaña de Tickets",
 			 "color":"aqua"
 			 }]}},
 	     "bold":true
