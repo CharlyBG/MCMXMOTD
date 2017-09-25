@@ -1,6 +1,6 @@
 ["",{
       "text":"➣ Noticias: \n",
-          "color":"red",
+          "color":"green",
           "bold":true,
           "hoverEvent":{
              "action":"show_text",
@@ -13,8 +13,8 @@
           "insertion":""
 
 },{
-	  "text":"→→→  ¡Vuelve PayPal como método de pago!  \n",
-		  "color":"white",
+	  "text":"¡Nuevos métodos de Pago!  \n",
+          "color":"white","clickEvent":{"action":"run_command","value":"/buy"},
 		  "hoverEvent":{
 		     "action":"show_text",
 			 "value":{
@@ -32,12 +32,12 @@
 			 "value":{
 			 "text":"",
 			 "extra":[{
-			 "text":"Se agregaron cosas mínimas a la web, como el redireccionamiento al blog y pestaña de Tickets",
-			 "color":"aqua"
+			 "text":"Cambios mínimos en la página web, como el redireccionamiento al blog y pestaña de Tickets",
+			 "color":"yellow"
 			 }]}},
 	     "bold":true
 },{
-      "text":"→ ¡Ahora puedes votar por nosotros con /voto40 y recibirás una Caja Misteriosa como recompensa! \n",
+      "text":"→ ¡Ahora puedes votar por nosotros con /voto40! \n",
           "color":"white","clickEvent":{"action":"run_command","value":"/voto40"},
           "hoverEvent":{
 	         "action":"show_text",
@@ -45,7 +45,7 @@
 			 "text":"",
 			 "extra":[{
 			 "text":"Click para usar /voto40",
-			 "color":"aqua"
+			 "color":"yellow"
 			 }]}},
 		  "bold":false
 			 
